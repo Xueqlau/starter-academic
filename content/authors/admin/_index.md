@@ -19,7 +19,9 @@ bio: My research interests include ROC curves, causal inference and epidemiologi
 interests:
 - ROC curves
 - Causal inference
-- Epidemiology
+- Bayesian statistics
+- Statistical genetics
+- Epidemiological methods
 
 education:
   courses:
@@ -32,7 +34,7 @@ education:
   - course: BMed in Preventive Medicine
     institution: Peking University
     year: 2019
-  - course: BSc in Applied Mathematics
+  - course: BSc in Applied Mathematics (dual degree)
     institution: Peking University
     year: 2019
 
