@@ -75,4 +75,4 @@ user_groups:
 
 Xueqing Liu is a master student of biostatistics at Peking University. Her research interests include ROC curves, causal inference, bayesian statistics and statistical genetics. She is now conducting research work under the supervision of Xiao-hua Zhou (Chair, Professor of Biostatistics ), and will graduate in June, 2021. 
 
-刘雪晴是北京大学的硕士研究生，研究方向为生统统计。她的研究兴趣包括ROC曲线，因果推断，贝叶斯统计和统计遗传学。她目前在北京大学生物统计系主任周晓华教授组进行研究工作，预计2021年6月毕业。
+刘雪晴是北京大学的硕士研究生，研究方向为生物统计学。她的研究兴趣包括ROC曲线，因果推断，贝叶斯统计和统计遗传学。她目前在北京大学生物统计系主任周晓华教授组进行研究工作，预计2021年6月毕业。
