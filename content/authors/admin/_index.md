@@ -73,8 +73,7 @@ user_groups:
 - Visitors
 ---
 
-Xueqing Liu is a master student of biostatistics at Peking University. Her research interests include ROC curves, causal inference, bayesian statistics and statistical genetics. She is now conducting research work under the supervision of Xiao-hua Zhou (Chair, Professor of Biostatistics ), and will graduate in June, 2021. 
+I am a master student of biostatistics at Peking University. My research interests include ROC curves, causal inference, bayesian statistics and statistical genetics. I am now conducting research work under the supervision of Xiao-hua Zhou (Chair, Professor of Biostatistics ), and will graduate in June, 2021. 
 
 Various statistical methods have been proposed to address the potential issues that can arise within biomedical studies, informing decisions to promote better health. I am fascinated with both the development of such statistical methods and their application to medical research. In order to best apply myself to a career as an academic biostatistician in biomedical sciences and to contribute to cutting-edge research in the public health sector, it is my dream to pursue a doctoral degree in Biostatistics.
 
-刘雪晴是北京大学的硕士研究生，研究方向为生物统计学。她的研究兴趣包括ROC曲线，因果推断，贝叶斯统计和统计遗传学。她目前在北京大学生物统计系进行研究工作，导师是周晓华教授，预计2021年6月毕业。
