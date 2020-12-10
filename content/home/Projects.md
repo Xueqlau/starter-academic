@@ -3,9 +3,9 @@
 widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
-title = "Projects"
+title = "projects"
 subtitle = ""
 
 # Date format for experience
@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[projects]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
+[[projects]]
   title = "Professor"
   company = "University X"
   company_url = ""
