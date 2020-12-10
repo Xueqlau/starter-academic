@@ -74,4 +74,46 @@ date_format = "Jan 2006"
   * Managed the application review process of nearly 100 medical projects, and summarized the revision opinions
   * Used Excel formulas and pivot tables to analyze KPI data of each team and produced six monthly reports
   """
+  
+  [[experience]]
+  title = "Organizer"
+  company = "Perking University Child Health Education Program"
+  company_url = ""
+  location = "Jilin, China"
+  date_start = "2017-07-01"
+  date_end = "2017-09-01"
+  description = """
+  Responsibilities include:
+  
+  * Planned all aspects of the program: health lessons preparation, and brochure design
+  * Contacted and coordinated with the local communities and schools for related issues
+  """
+  
+  [[experience]]
+  title = "Core member"
+  company = "Peking University Hepatitis B Campaign Program"
+  company_url = ""
+  location = "Chengdu, China"
+  date_start = "2016-07-01"
+  date_end = "2016-08-01"
+  description = """
+  Responsibilities include:
+  
+  * Educated community residents about the prevention, treatment and management of Hepatitis B
+  * Investigated the local residents' understanding of Hepatitis B-related knowledge and wrote a report
+  """
+  
+    [[experience]]
+  title = "Core member"
+  company = "Peking University “Love for Thousands of Miles” Volunteer Teaching Program"
+  company_url = ""
+  location = "Guizhou, China"
+  date_start = "2015-07-01"
+  date_end = "2015-08-01"
+  description = """
+  Responsibilities include:
+  
+  * Designed and taught “Funny Math” course to children in an effort to make math more fun
+  * Kept records on daily teaching and other activities
+  """
 +++
