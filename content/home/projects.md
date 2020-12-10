@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Statistical methods for analyzing multi-reader free response receiver operating characteristic (FROC) datasets"
   company = "Peking University"
-  company_url = ""
+  company_url = "Beijing"
   location = "Supervisor: Xiao-hua Zhou"
   date_start = "2020-02-01"
   date_end = ""
@@ -37,12 +37,63 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Correcting for both imperfect gold standard bias and verification bias in estimating the accuracy of two diagnostic tests"
+  company = "Peking University"
+  company_url = "Beijing"
+  location = "Supervisor: Xiao-hua Zhou"
+  date_start = "2020-06-01"
+  date_end = "2020-10-01"
+  description = """When the reference test is imperfect and is only given to a non-random subgroup, imperfect gold standard bias and verification bias could arise, leading to biased estimates of the sensitivity and specificity. The existing Bayesian method is sensitive to prior distribution and is less efficient.
+  
+  Responsibilities include:
+  
+  * Developed a maximum likelihood procedure for simultaneous correcting both verification bias and imperfect gold standard bias in collaboration with Lu Wang
+  * Implemented the novel approach to the COVID-19 example and derived unbiased accuracy estimates of chest CT and RT-PCR for detecting COVID-19
+  * Wrote both the methods and the results sections of the article and submitted the work for publication
+  """
 
+[[experience]]
+  title = "Modeling and forecasting the ambulance demand in Beijing using Gaussian Mixture Model with logistic weights"
+  company = "Peking University"
+  company_url = "Beijing"
+  location = "Supervisor: Xiao-hua Zhou"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Summarized the existing spatio-temporal approaches for modelling the overall ambulance demand in Beijing
+  * Utilized the Gaussian Mixture model with logistic weights to capture the spatial and temporal structure
+  * Proposed a new algorithm based on Variational Bayesian methods that could increase computational efficiency
+  """
+  
+[[experience]]
+  title = "Causal Inference in two-sample Mendelian randomization studies"
+  company = "Peking University"
+  company_url = "Beijing"
+  location = "Supervisor: Xiao-hua Zhou"
+  date_start = "2020-03-01"
+  date_end = "2020-06-01"
+  description = """
+  Responsibilities include:
+  
+  * Reviewed existing statistical methods for estimating causal parameters in two-sample Mendelian randomization studies
+  * Conducted simulation studies to compare existing estimators of causal effects
+  * Implemented the two-sample, two-stage least square estimator in a real example and compiled results into a report
+  """  
+  
+  [[experience]]
+  title = "A meta-analysis of the accuracy of computer-aided diagnostic devices for lung cancer"
+  company = "Peking University"
+  company_url = "Beijing"
+  location = "Supervisor: Feng Sun"
+  date_start = "2019-05-01"
+  date_end = "2019-07-01"
+  description = """
+  Responsibilities include:
+  
+  * Formulated a literature retrieval strategy and established the inclusion and exclusion criteria for the meta-analysis
+  * Extracted accuracy information, sorted, and analyzed the summary data using a random effect model
+  * Compiled the results and wrote a report in English
+  """  
 +++
