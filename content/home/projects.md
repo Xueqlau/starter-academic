@@ -1,11 +1,11 @@
 +++
 # Experience widget.
-widget = "projects"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget = "experiences"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "projects"
+title = "Projects"
 subtitle = ""
 
 # Date format for experience
