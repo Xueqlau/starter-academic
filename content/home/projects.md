@@ -17,7 +17,7 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
+[[project]]
   title = "CEO"
   company = "GenCoin"
   company_url = ""
@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   * Deploying
   """
 
-[[experience]]
+[[project]]
   title = "Professor"
   company = "University X"
   company_url = ""
