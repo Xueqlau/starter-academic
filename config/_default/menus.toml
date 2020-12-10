@@ -28,6 +28,12 @@
   url = "#experience"
   weight = 50
 
+
+[[main]]
+  name = "Awards"
+  url = "#awards"
+  weight = 50
+
 [[main]]
   name = "Contact"
   url = "#contact"
