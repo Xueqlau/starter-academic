@@ -27,7 +27,7 @@ subtitle = ""
   description = "Methodology development and statistical simulation"  
   
 [[feature]]
-  icon = "analytics"
+  icon = "disease"
   icon_pack = "fas"
   name = "Epidemiology"
   description = "Study design and data analysis"
