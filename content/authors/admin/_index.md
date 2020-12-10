@@ -19,7 +19,7 @@ bio: My research interests include ROC curves, causal inference and epidemiologi
 research interests:
 - ROC curves
 - Causal inference
-- Epidemiological methods
+- Epidemiology
 
 education:
   courses:
