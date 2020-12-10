@@ -1,25 +1,25 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Xueqing Liu
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master Student of Biostatistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Peking University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include ROC curves, diagnostic medicine,  causal inference and statistical genetics.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+research interests:
+- ROC curves
+- Causal inference
+- Epidemiological methods
 
 education:
   courses:
