@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include ROC curves, causal inference and epidemiological methods.
 
-research interests:
+interests:
 - ROC curves
 - Causal inference
 - Epidemiology
