@@ -19,18 +19,20 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Statistical methods for analyzing multi-reader free response receiver operating characteristic (FROC) datasets"
+  company = "Peking University"
+  company_url = "Supervisor: Xiao-hua Zhou"
+  location = "Beijing"
+  date_start = "2020-02"
   date_end = ""
-  description = """
+  description = """When evaluating diagnostic imaging tests, the multi-reader, multi-case free response study design is typically used, which gives rise to cross-correlated data structure. The existing methods cannot fully address this issue and ignore the effects of addition covariates on accuracy estimates as well.
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Proposed a marginal regression model for the area under the alternative FROC curves (AFROC-AUC)
+  * Derived covariate-adjusted AFROC-AUC to summarize the overall accuracy of a diagnostic test while taking the covariates information into consideration
+  * Conducted simulation studies and real example analysis to verify the performance of the new method
+  * Compiled the approach, simulation, and real example results into a manuscript for submission
+  * Wrote a tutorial article on the evaluation of imaging tests in collaboration with other researchers
   """
 
 [[experience]]
