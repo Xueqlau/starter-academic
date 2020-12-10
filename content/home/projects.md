@@ -21,8 +21,8 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Statistical methods for analyzing multi-reader free response receiver operating characteristic (FROC) datasets"
   company = "Peking University"
-  company_url = "Supervisor: Xiao-hua Zhou"
-  location = "Beijing"
+  company_url = ""
+  location = "Supervisor: Xiao-hua Zhou"
   date_start = "2020-02"
   date_end = ""
   description = """When evaluating diagnostic imaging tests, the multi-reader, multi-case free response study design is typically used, which gives rise to cross-correlated data structure. The existing methods cannot fully address this issue and ignore the effects of addition covariates on accuracy estimates as well.
