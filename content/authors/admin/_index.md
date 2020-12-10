@@ -21,7 +21,6 @@ interests:
 - Causal inference
 - Bayesian statistics
 - Statistical genetics
-- Epidemiological methods
 
 education:
   courses:
@@ -74,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Xueqing Liu is a master student of biostatistics at Peking University. Her research interests include ROC curves, causal inference, bayesian statistics and statistical genetics. She is now conducting research work under the supervision of Xiao-hua Zhou (Chair, Professor of Biostatistics ), and will graduate in June, 2021. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+刘雪晴是北京大学的硕士研究生，研究方向为生统统计。她的研究兴趣包括ROC曲线，因果推断，贝叶斯统计和统计遗传学。她目前在北京大学生物统计系主任周晓华教授组进行研究工作，预计2021年6月毕业。
