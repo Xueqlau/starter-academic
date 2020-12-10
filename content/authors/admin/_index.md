@@ -28,11 +28,11 @@ education:
   #  year: 2012
   - course: MSc in Epidemiology and Health Statistics
     institution: Peking University
-    year: Expected 2021
+    year: 2021
   - course: BMed in Preventive Medicine
     institution: Peking University
     year: 2019
-  - course: BSc in Mathematics and Applied Mathematics
+  - course: BSc in Applied Mathematics
     institution: Peking University
     year: 2019
 
