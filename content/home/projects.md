@@ -26,6 +26,7 @@ date_format = "Jan 2006"
   date_start = "2020-02-01"
   date_end = ""
   description = """When evaluating diagnostic imaging tests, the multi-reader, multi-case free response study design is typically used, which gives rise to cross-correlated data structure. The existing methods cannot fully address this issue and ignore the effects of addition covariates on accuracy estimates as well.
+  
   Responsibilities include:
   
   * Proposed a marginal regression model for the area under the alternative FROC curves (AFROC-AUC)
