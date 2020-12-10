@@ -18,19 +18,19 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+  description = "Computation and programming"
   
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Biotatistics"
+  description = "Methodology development and statistical simulation"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "analytics"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Epidemiology"
+  description = "Study design and data analysis"
 
 # Uncomment to use emoji icons.
 # [[feature]]
