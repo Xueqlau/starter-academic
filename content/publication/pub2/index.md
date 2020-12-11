@@ -22,10 +22,7 @@ publication_types: ["3"]
 publication: "In preparation"
 publication_short: ""
 
-abstract: A novel regression framework for MRMC FROC study analyses is developed in this work. Under this framework, continuous
-covariates can be incorporated into the analysis, and we can thus derive covariate-specific AUC and covariate-adjusted AUC. In
-addition, the intra-case correlation is directly considered in the estimation procedure, while the DBM procedure seeks to avoid
-this problem.
+abstract: A novel regression framework for MRMC FROC study analyses is developed in this work. Under this framework, continuous covariates can be incorporated into the analysis, and we can thus derive covariate-specific AUC and covariate-adjusted AUC. In addition, the intra-case correlation is directly considered in the estimation procedure, while the DBM procedure seeks to avoid this problem.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
