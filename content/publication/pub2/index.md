@@ -3,7 +3,7 @@ title: "A novel regression model for multi-reader multi case free-response recei
 authors:
 - admin
 - Xiao-hua Zhou
-#author_notes:
+# author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
 date: "2020-12-01T00:00:00Z"
@@ -65,12 +65,12 @@ projects: []
 slides: ""
 ---
 
-#{{% alert note %}}
-#Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
-#{{% alert note %}}
-#Click the *Slides* button above to demo Academic's Markdown slides feature.
-#{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
-#Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
