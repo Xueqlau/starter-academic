@@ -1,7 +1,7 @@
 ---
 title: "The free-response receiver operating characteristic method and the corresponding multi-reader multi-case analysis"
 authors:
-- Xueqing Liu
+- admin
 - Xiao-hua Zhou
 #author_notes:
 #- "Equal contribution"
@@ -19,7 +19,7 @@ publishDate: "2021-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Chinese Journal of Health Statistics"
+publication: "*Chinese Journal of Health Statistics*"
 publication_short: ""
 
 abstract: Objective In this work, we aim to discuss the advantages and disadvantages of the free-response ROC (FROC) method and the alternative FROC (AFROC) method in comparison with the conventional ROC method. We also propose a nonparametric method for deriving average AFROC curve in MRMC studies. Method We illustrate the relationship and relative merits of the original FROC method and the AFROC method from a theoretical perspective. The mathematical detail for deriving average AFROC curve is provided, including the proof of its equivalence with the reader-averaged AFROC-AUC. We implement these methods in real example and compare the results. Results In contrast to the FROC method, the AFROC curves produced by different tests are of the same length, making the comparison between multiple tests practical. The comparison results of two diagnostic tests using average AFROC curve is consistent with the results obtained by regression models. Conclusion The FROC method is more appropriate for diagnostic tests involving multi-lesion detection and localization, and AFROC curve can address the problem related to original FROC curve. The average AFROC curve obtained using the non-parametric method can intuitively reflect the diagnostic accuracy, and should be reported in companion with other results in diagnostic accuracy evaluation.
