@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "FROC, LROC and ROI: The location-specific ROC analysis"
 authors:
 - admin
 - Yuying Li
